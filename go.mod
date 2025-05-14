@@ -1,6 +1,6 @@
 module github.com/gajanan-deshmukh
 
-go 1.23.8
+go 1.23
 
 require github.com/lib/pq v1.10.9
 
